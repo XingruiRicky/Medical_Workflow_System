@@ -1,8 +1,6 @@
 # Medical_Workflow
 Welcome to Medical_Workflow
 
-The system is an implementation of Problem 2 of the Programming Assignment.
-
 Functionalities:
     1) Add a patient to the database
     2) View patients in the database
